@@ -1,0 +1,54 @@
+html {
+      height: 100%;
+    }
+    body {
+       height: 100%;
+       background-color: green;
+     }
+    header {
+        background-color: ;
+        padding:5px;
+        font-size: ;
+        border: 5px solid #245998;
+        display: block;
+        width: 790px;
+    }
+    #resize {
+      width: 400px;
+      height: 200px;
+      display: block;
+    }
+    nav {
+        line-height:;
+        background-color:;
+        width:125px;
+        display: inline-block;
+        vertical-align: top;
+    }
+    nav ul {
+        list-style-type: none;
+    }
+    a {
+        color: ;
+    }
+    section {
+        width: 516px;
+        display: inline-block;
+    }
+    aside {
+      width: 125px;
+      display: inline-block;
+      vertical-align: top;
+      background-color: ;
+      font-size: ;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        text-align:;
+        padding:5px;
+        display: block;
+    }
